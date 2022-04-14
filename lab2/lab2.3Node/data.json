@@ -1,0 +1,8 @@
+{ 
+    "name": "shrouk",
+    "age": 23,
+    "gender": "Female",
+    "intake": 42,
+    "track": "open source",
+    "branch": "Alex"
+}
